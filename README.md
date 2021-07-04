@@ -26,8 +26,13 @@ https://user-images.githubusercontent.com/68767604/124381981-c4f45a80-dce2-11eb-
 Here are some Screen shots by step by step Execution:
 
 1.APPICON:
+
+
+
+
+
 ![IMG_20210704_011944](https://user-images.githubusercontent.com/68767604/124382717-82348180-dce6-11eb-8d08-a3ccae122530.jpg)
-![Screenshot_2021-07-04-15-10-17-724_com miui home](https://user-images.githubusercontent.com/68767604/124382720-86f93580-dce6-11eb-8625-f5aee30de3c1.jpg)
+![Screenshot_2021-07-04-15-10-17-724_com miui home_50](https://user-images.githubusercontent.com/68767604/124382933-7f865c00-dce7-11eb-9f82-e68020f26600.jpg)
 
 
 
