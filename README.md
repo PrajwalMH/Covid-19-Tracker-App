@@ -1,15 +1,32 @@
 # majorproject_covid19_tracker
 
-Major Project 
+Major Project Instructions:
 
-1.Any Dynamic Application using Flutter that should include following features:
-2.Login & Logout [Firebase DB or shared preferences]
-3.User Sign up [Firebase DB or shared preferences
-4.Logic with state management
-5.UI with almost all widgets discussed in session.
-6.Burger Menu
-7.Updated App Icon
-8.Result screen
+Any Dynamic Application using Flutter that should include following features:
+
+
+1.Login & Logout [Firebase DB or shared preferences]
+
+
+2.User Sign up [Firebase DB or shared preferences
+
+
+3.Logic with state management
+
+
+4.UI with almost all widgets discussed in session.
+
+
+5.Burger Menu
+
+
+6.Updated App Icon
+
+
+7.Result screen
+
+
+ABSTRACT:
 
 
 This is my Dynamic Flutter App for my verzeo major project.At first Login/Signup page is created which is provided with Email and password authentication.After logging it goes to splashscreen(loading page) until the data is fetched to homepage(by API).Then we go to the homepage where it displays worldwide covid-19 data.If we require country wise then we can go to regional and search for that particular country.Data is displayed in pie chart and below which 5 most effected country is listed.There is a comment button where user can comment which will be added to cloud firestore database and displayed by getting it from cloud firestore database in bubbleshaped container.There is also a refresh indicator where you can refresh the homepage to get the updated data.Then there is App drawer(Burger Menu)with information which takes to infomation screen where you can find basic Q/A information related to Covid-19.Ther other options are Donate which is directed to PM care fund website and next MYTH BUSTER which will direct to WHO website to know much about Covid-19.The Logout button will signout the user an navigate to Loginpage.App Icon is changed with default App Icon.
